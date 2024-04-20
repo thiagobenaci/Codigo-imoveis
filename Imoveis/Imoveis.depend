@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713628917 source:c:\users\thiag\onedrive\Área de trabalho\nova pasta\imoveis\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
